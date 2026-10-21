@@ -1,0 +1,9 @@
+target/
+.settings/
+.classpath
+.project
+.metadata/
+*.class
+*.log
+# real DB password stays local (copy db.properties.example -> db.properties)
+src/main/resources/db.properties
