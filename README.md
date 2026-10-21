@@ -53,3 +53,27 @@ Others can copy `db.properties.example` to `db.properties` and set their own pas
 ## Ideas to extend
 - Monthly budget with alerts, CSV export, charts (Chart.js), edit profile / change password,
   pagination, connection pooling (HikariCP), unit tests.
+  
+  
+  ## Screenshots
+
+### Register
+![Register](screenshots/register.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Expense
+![Add Expense](screenshots/add-expense.png)
+
+### Expense List
+![Expense List](screenshots/expenses.png)
+
+### Filter by Month and Category
+![Filter Expenses](screenshots/filter-expenses.png)
+
+### All Expenses
+![All Expenses](screenshots/all-expenses.png)
